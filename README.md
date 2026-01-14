@@ -2,6 +2,44 @@
 De Mini Nurse is ontwikkeld vanuit het inzicht dat (dementie)patiënten vaak terechtkomen in een onbekende omgeving of situatie. Als geliefde kun je niet altijd aanwezig zijn op de momenten dat het écht nodig is. In geval van onrust of desoriëntatie kan de patiënt op een knop drukken, waarna jouw stem (vertrouwde stem van een geliefde) te horen is. 
 
 ## Vormontwerp
+Het ontwerp van CONVO is gebaseerd op de tijdloze designprincipes van BRAUN. De volledig witte behuizing wordt verfijnd door zachte zilveren accenten, die de draaiknop, drukknoppen en de afgeronde randen van de body subtiel benadrukken. Deze rustige en herkenbare vormgeving zorgt ervoor dat CONVO vertrouwd aanvoelt en harmonieus past binnen verschillende woonomgevingen.
+
+foto's van afgewerkte convo
+
+### Ontwikkelproces van CONVO
+Bij de creatie van het product werd gebruik gemaakt van de prusa MK4 3D-printer. Deze 3D-printe de knoppen, body en het onderstel. Volgende onderdelen werden allen uitgewerkt in de 3D-model software NX.
+Welke setting, kleuren en hoe de onderdelen af te werken leggen we kort uit.
+
+#### De knoppen
+foto's van de 5 knoppen
+Alle knoppen werden geprint met:
+- 0.15 mm QUALITY setting
+- tree support
+- 0.4 mm nozzle
+- vulling van 15%
+
+Knop 1,2 en 3 werden vervaardigd via 3D-printing met Polymaker Panchroma PLA Satin in de kleur wit. Na het printproces werden de knoppen afgewerkt met een zilverkleurige spuitlak.
+Knop 4 werd vervaardigd via 3D-printing met Polymaker Panchroma PLA Satin in de kleur rood.
+Knop 5 werd vervaardigd via 3D-printing met Polymaker Panchroma PLA Satin in de kleur groen.
+
+#### De body
+foto van de body deel 1 en 2
+Beide stukken werden geprint met:
+- 0.15 mm QUALITY setting
+- tree support
+- 0.4 mm nozzle
+- vulling van 30%
+- Polymaker Panchroma PLA Satin in de kleur wit
+Na het printproces werden van beide onderdelen de edges afgewerkt met een zilverkleurige spuitlak. Hierna werd het logo "CONVO" geplaatst op de behuizing met behulp van een stikker en werd ook dit afgewerkt met een zilveren spuitlak.
+
+#### Het onderstel
+foto van het onderstel
+Volgend onderdeel werd geprint met:
+- 0.15 mm QUALITY setting
+- raster support
+- 0.4 mm nozzle
+- vulling van 15%
+- Polymaker Panchroma PLA Satin in de kleur wit
 
 ## Elektronica
 ### Benodigdheden
