@@ -19,7 +19,9 @@ Alle knoppen werden geprint met:
 - vulling van 15%
 
 Knop 1,2 en 3 werden vervaardigd via 3D-printing met Polymaker Panchroma PLA Satin in de kleur wit. Na het printproces werden de knoppen afgewerkt met een zilverkleurige spuitlak.
+
 Knop 4 werd vervaardigd via 3D-printing met Polymaker Panchroma PLA Satin in de kleur rood.
+
 Knop 5 werd vervaardigd via 3D-printing met Polymaker Panchroma PLA Satin in de kleur groen.
 
 #### De body
