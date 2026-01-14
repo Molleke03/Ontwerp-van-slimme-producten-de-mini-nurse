@@ -12,10 +12,10 @@ Het systeem bestaat uit:
 - 2x speaker (3W, 8Ω)
 - Encoder module (rotary encoder/ potentiometer))
 - 4x drukknop
-- USB-C --> USB-A kabel met adapter
-- Mini-HDMI --> HDMI kabel
-- Micro-USB --> USB-A kabel met adapter
-- 3.5 mm jack stereo --> 2x RCA aux kabel (bewerkt)
+- USB-C → USB-A kabel met adapter
+- Mini-HDMI → HDMI kabel
+- Micro-USB → USB-A kabel met adapter
+- 3.5 mm jack stereo → 2x RCA aux kabel (bewerkt)
 - Arduino jumpdraadjes
 
 ### Aansluitingen
