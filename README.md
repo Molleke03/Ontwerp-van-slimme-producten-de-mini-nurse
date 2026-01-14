@@ -28,6 +28,7 @@ Beide stukken werden geprint met:
 - 0.4 mm nozzle
 - vulling van 30%
 - Polymaker Panchroma PLA Satin in de kleur wit
+
 Na het printproces werden van beide onderdelen de edges afgewerkt met een zilverkleurige spuitlak. Hierna werd het logo "CONVO" geplaatst op de behuizing met behulp van een stikker en werd ook dit afgewerkt met een zilveren spuitlak.
 
 #### Het onderstel
