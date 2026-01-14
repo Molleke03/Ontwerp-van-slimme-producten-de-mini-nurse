@@ -8,7 +8,7 @@ foto's van afgewerkte convo
 
 ### Ontwikkelproces van CONVO
 Bij de creatie van het product werd gebruik gemaakt van de prusa MK4 3D-printer. Deze 3D-printe de knoppen, body en het onderstel. Volgende onderdelen werden allen uitgewerkt in de 3D-model software NX.
-Welke setting, kleuren en hoe de onderdelen af te werken leggen we kort uit.
+<br>Welke setting, kleuren en hoe de onderdelen af te werken leggen we kort uit.
 
 #### De knoppen
 foto's van de 5 knoppen
