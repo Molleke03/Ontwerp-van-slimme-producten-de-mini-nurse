@@ -7,7 +7,7 @@ Het ontwerp van CONVO is gebaseerd op de tijdloze designprincipes van BRAUN. De 
 foto's van afgewerkte convo
 
 ### Ontwikkelproces van CONVO
-Bij de creatie van het product werd gebruik gemaakt van de prusa MK4 3D-printer. Deze 3D-printe de knoppen, body en het onderstel. Volgende onderdelen werden allen uitgewerkt in de 3D-model software NX.
+Bij de creatie van het product werd gebruik gemaakt van de prusa MK4 3D-printer. Deze 3D-printe de knoppen, body, onderstel en de zijkanten. Volgende onderdelen werden allen uitgewerkt in de 3D-model software NX.
 <br>Welke setting, kleuren en hoe de onderdelen af te werken leggen we kort uit.
 
 #### De knoppen
@@ -36,10 +36,19 @@ Beide stukken werden geprint met:
 Na het printproces werden van beide onderdelen de edges afgewerkt met een zilverkleurige spuitlak. Hierna werd het logo "CONVO" geplaatst op de behuizing met behulp van een stikker en werd ook dit afgewerkt met een zilveren spuitlak.
 
 #### Het onderstel
-foto van het onderstel
+<img width="1259" height="374" alt="onderstel" src="https://github.com/user-attachments/assets/9374cb8c-7e18-40da-9512-dfc5fc31de13" />
+
 Volgend onderdeel werd geprint met:
 - 0.15 mm QUALITY setting
 - raster support
+- 0.4 mm nozzle
+- vulling van 15%
+- Polymaker Panchroma PLA Satin in de kleur wit
+
+#### De zijkanten
+
+Volgend onderdeel werd geprint met:
+- 0.15 mm QUALITY setting
 - 0.4 mm nozzle
 - vulling van 15%
 - Polymaker Panchroma PLA Satin in de kleur wit
