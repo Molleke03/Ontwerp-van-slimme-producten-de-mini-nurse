@@ -1,5 +1,7 @@
 # CONVO 
-De Mini Nurse is ontwikkeld vanuit het inzicht dat (dementie)patiënten vaak terechtkomen in een onbekende omgeving of situatie. Als geliefde kun je niet altijd aanwezig zijn op de momenten dat het écht nodig is. In geval van onrust of desoriëntatie kan de patiënt op een knop drukken, waarna jouw stem (vertrouwde stem van een geliefde) te horen is. 
+Convo is een innovatief communicatieapparaat ontworpen voor ouderen die zich eenzaam voelen of moeite hebben met moderne technologie. Veel bestaande digitale oplossingen zijn te complex, waardoor net de mensen die het meest nood hebben aan sociaal contact worden uitgesloten.
+
+Convo richt zich op ouderen die eenvoud en duidelijkheid nodig hebben. Het apparaat bestaat uit een helder display, vier grote fysieke knoppen en ingebouwde speakers. Met één druk op de knop kunnen gebruikers eenvoudig contact maken met een familielid of een andere persoon die openstaat voor een babbeltje.
 
 ## Vormontwerp
 Het ontwerp van CONVO is gebaseerd op de tijdloze designprincipes van BRAUN. De volledig witte behuizing wordt verfijnd door zachte zilveren accenten, die de draaiknop, drukknoppen en de afgeronde randen van de body subtiel benadrukken. Deze rustige en herkenbare vormgeving zorgt ervoor dat CONVO vertrouwd aanvoelt en harmonieus past binnen verschillende woonomgevingen.
