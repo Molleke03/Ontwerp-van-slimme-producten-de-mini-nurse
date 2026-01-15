@@ -24,7 +24,8 @@ Knop 2 werd vervaardigd via 3D-printing met Polymaker Panchroma PLA Satin in de 
 Knop 3, 4 en 5 werden vervaardigd via 3D-printing met Polymaker Panchroma PLA Satin in de kleur wit. Na het printproces werden de knoppen afgewerkt met een zilverkleurige spuitlak.
 
 #### De body
-foto van de body deel 1 en 2
+<img width="1259" height="374" alt="body" src="https://github.com/user-attachments/assets/7d014f0e-e93c-4f3b-8cf0-93d97338da73" />
+
 Beide stukken werden geprint met:
 - 0.15 mm QUALITY setting
 - tree support
