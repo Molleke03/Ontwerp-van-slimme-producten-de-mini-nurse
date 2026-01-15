@@ -36,7 +36,7 @@ Beide stukken werden geprint met:
 Na het printproces werden van beide onderdelen de edges afgewerkt met een zilverkleurige spuitlak. Hierna werd het logo "CONVO" geplaatst op de behuizing met behulp van een stikker en werd ook dit afgewerkt met een zilveren spuitlak.
 
 #### Het onderstel
-<img width="1259" height="374" alt="onderstel" src="https://github.com/user-attachments/assets/9374cb8c-7e18-40da-9512-dfc5fc31de13" />
+<img width="1259" height="374" alt="onderstel" src="https://github.com/user-attachments/assets/1b288362-2004-4073-bbb8-b2ab894fd57e" />
 
 Volgend onderdeel werd geprint met:
 - 0.15 mm QUALITY setting
