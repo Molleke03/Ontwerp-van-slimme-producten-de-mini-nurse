@@ -11,7 +11,8 @@ Bij de creatie van het product werd gebruik gemaakt van de prusa MK4 3D-printer.
 <br>Welke setting, kleuren en hoe de onderdelen af te werken leggen we kort uit.
 
 #### De knoppen
-foto's van de 5 knoppen
+<img width="1259" height="374" alt="knoppen github" src="https://github.com/user-attachments/assets/28eefafe-7d6e-4e0d-b752-ef2ddffc763c" />
+
 Alle knoppen werden geprint met:
 - 0.15 mm QUALITY setting
 - tree support
