@@ -46,6 +46,7 @@ Volgend onderdeel werd geprint met:
 - Polymaker Panchroma PLA Satin in de kleur wit
 
 #### De zijkanten
+<img width="1259" height="374" alt="zijkanten" src="https://github.com/user-attachments/assets/3c14e3a1-b086-4e12-a537-1a34ef7e40cc" />
 
 Volgend onderdeel werd geprint met:
 - 0.15 mm QUALITY setting
