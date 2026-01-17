@@ -130,5 +130,80 @@ Onderstaande afbeelding heeft het gehele schema weer om alles wat te verduidelij
 <img width="1983" height="1759" alt="Elektronica schema" src="https://github.com/user-attachments/assets/fe171d56-499d-4bfd-9e24-fea087e7abce" />
 
 
+## Code
 
+### Uitvoeren
+1. Start de Raspberry Pi en log in.
+2. Plaats alle codebestanden, afbeeldingen en het geluidsfragment volgens de mapstructuur hieronder op de Raspberry Pi.
+3. Pas de locatie van het geluidsfragment in `scene5.py` aan aan de hand van de locatie op de Raspberry Pi.
+4. Open **Thonny Python IDE**.
+5. Installeer vereiste **libraries** (zie onderstaande sectie).
+6. Open het Python-bestand `main.py` via **File → Open**.
+7. Sluit eventuele hardware aan op de GPIO-pinnen.
+8. Klik op **Run (F5)** om het script uit te voeren.
+
+---
+
+### Mapstructuur
+
+<ul class="tree">
+  <li>📁 Python_finaal
+    <ul>
+      <li>📄 main.py </li>
+        <li>📄 profiles.py </li>
+      <li>📄 scene0.py </li>
+        <li>📄 scene1.py </li>
+        <li>📄 scene2.py </li>
+        <li>📄 scene3.py </li>
+        <li>📄 scene4.py </li>
+        <li>📄 scene5.py </li>
+      <li>📁 images
+        <ul>
+          <li>🖼️ megafoon.png</li>
+          <li>🖼️ bel_blauw.png</li>
+          <li>🖼️ bel_wit.png</li>
+          <li>🖼️ + grijs.png</li>
+          <li>🖼️ + groen.png</li>
+          <li>🖼️ hart_grijs.png</li>
+          <li>🖼️ hart_groen.png</li>
+        </ul>
+      </li>
+      <li>📁 geluid
+        <ul>
+          <li>📄 gesprek.mp3</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+
+### libraries
+### Standaard op Raspberry Pi OS
+- tkinter
+- queue
+- time
+- datetime
+- subprocess
+- RPi.GPIO
+- gpiozero
+
+### Externe libraries
+- Pillow
+- pygame
+
+Installatie (indien nodig):
+```bash
+pip3 install pillow pygame
+sudo apt install python3-gpiozero python3-rpi.gpio
+```
+
+
+### uitleg code
+De uitleg van de opbouwing van de code is te vinden in elk code bestand.
+
+### Flowchart
+De logica van de code volgt onderstaande flowchart:
+
+<img width="1983"  alt="Flowchart" src="https://github.com/user-attachments/assets/88182090-89c3-4339-b0ac-eb6d112e6510" />
 
