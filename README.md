@@ -8,7 +8,8 @@ Het product richt zich op ouderen die eenvoud en duidelijkheid nodig hebben. Het
 ## Vormontwerp
 Het ontwerp van CONVO is gebaseerd op de tijdloze designprincipes van BRAUN. De volledig witte behuizing wordt verfijnd door zachte zilveren accenten, die de draaiknop, drukknoppen en de afgeronde randen van de body subtiel benadrukken. Deze rustige en herkenbare vormgeving zorgt ervoor dat CONVO vertrouwd aanvoelt en harmonieus past binnen verschillende woonomgevingen.
 
-foto's van afgewerkte convo
+<img width="1920" height="1080" alt="github 2" src="https://github.com/user-attachments/assets/4552cc56-3de8-4f11-9cfa-3c79afd99a7a" />
+
 
 ### Ontwikkelproces van CONVO
 Bij de creatie van het product werd gebruik gemaakt van de prusa MK4 3D-printer. Deze 3D-printe de knoppen, body, onderstel en de zijkanten. Volgende onderdelen werden allen uitgewerkt in de 3D-model software NX.
