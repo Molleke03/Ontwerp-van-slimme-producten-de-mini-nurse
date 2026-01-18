@@ -91,6 +91,7 @@ De RCA-connectoren zijn afgeknipt zodat de afzonderlijke signaaldraden handmatig
 De gesoldeerde Arduino-draadjes zijn aangesloten op de audio amplifier TPA2016D2 via de volgende aansluitingen:
 - R+ en R- voor het rechter audiokanaal
 - L+ en L- voor het linker audiokanaal
+
 Om de audio amplifier correct te laten functioneren, zijn bijkomende verbindingen met de Raspberry Pi gemaakt:
 - VDD en I2C van de amplifier zijn verbonden met de 5 V voeding van de Raspberry Pi (pin 2)
 - GND van de amplifier is verbonden met GND van de Raspberry Pi (pin 14)
