@@ -113,8 +113,8 @@ Door het draaien van de encoder kan het volume aangepast worden.
 Tot slot zijn er vier drukknoppen voorzien voor de bediening van het display en de gebruikersinterface. De knoppen zijn van links naar rechts toegewezen aan de volgende functies:
 - Back
 - Confirm
-- Naar boven
-- Naar onder
+- Up
+- Down
 
 Elke drukknop is aangesloten volgens hetzelfde principe:
 - Eén pin → GND van de Raspberry Pi (pin 6)
