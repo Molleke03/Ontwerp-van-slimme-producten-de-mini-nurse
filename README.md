@@ -112,9 +112,11 @@ Tot slot zijn er vier drukknoppen voorzien voor de bediening van het display en 
 - Confirm
 - Naar boven
 - Naar onder
+
 Elke drukknop is aangesloten volgens hetzelfde principe:
 - Eén pin → GND van de Raspberry Pi (pin 6)
 - Eén pin → GPIO-pin
+
 De GPIO-toewijzing is als volgt:
 - Back knop → GPIO23 (pin 16)
 - Confirm knop → GPIO22 (pin 15)
