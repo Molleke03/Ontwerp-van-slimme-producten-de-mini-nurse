@@ -106,6 +106,7 @@ Voor het regelen van het volume wordt een encoder module gebruikt. Deze is als v
 - SW → GPIO25 (pin 22)
 - DT → GPIO8 (pin 24)
 - CLK → GPIO7 (pin 26)
+
 Door het draaien van de encoder kan het volume aangepast worden.
 
 #### Drukknoppen
