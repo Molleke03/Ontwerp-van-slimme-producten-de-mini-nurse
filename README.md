@@ -204,7 +204,7 @@ sudo apt install python3-gpiozero python3-rpi.gpio
 ```
 
 
-### uitleg code
+### Uitleg code
 De uitleg van de opbouwing van de code is te vinden in elk code bestand.
 
 ### Flowchart
