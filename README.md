@@ -64,7 +64,7 @@ Volgend onderdeel werd geprint met:
 ## Elektronica
 ### Benodigdheden
 Het systeem bestaat uit:
-- Raspberry pi model 4B
+- Raspberry Pi model 4B
 - 5 inch HDMI-display (800x480 pixels)
 - Audio amplifier TPA2016D2
 - 2x speaker (3W, 8Ω)
@@ -77,7 +77,7 @@ Het systeem bestaat uit:
 - Arduino jumpdraadjes
 
 ### Aansluitingen
-#### Raspberry pi en voeding
+#### Raspberry Pi en voeding
 De Raspberry Pi fungeert als het kloppend hart van het ontwerp en vormt de centrale besturingseenheid waaraan alle componenten zijn gekoppeld. De Raspberry Pi wordt gevoed via een USB-C-voeding die rechtstreeks op het elektriciteitsnet is aangesloten.
 
 #### Display
