@@ -183,8 +183,8 @@ Onderstaande afbeelding heeft het gehele schema weer om alles wat te verduidelij
 </ul>
 
 
-### libraries
-### Standaard op Raspberry Pi OS
+### Libraries
+#### Standaard op Raspberry Pi OS
 - tkinter
 - queue
 - time
@@ -193,7 +193,7 @@ Onderstaande afbeelding heeft het gehele schema weer om alles wat te verduidelij
 - RPi.GPIO
 - gpiozero
 
-### Externe libraries
+#### Externe libraries
 - Pillow
 - pygame
 
