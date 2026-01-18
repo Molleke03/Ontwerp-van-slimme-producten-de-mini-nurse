@@ -123,8 +123,8 @@ Elke drukknop is aangesloten volgens hetzelfde principe:
 De GPIO-toewijzing is als volgt:
 - Back knop → GPIO23 (pin 16)
 - Confirm knop → GPIO22 (pin 15)
-- Naar boven knop → GPIO27 (pin 13)
-- Naar onder knop → GPIO17 (pin 11)
+- Up knop → GPIO27 (pin 13)
+- Down knop → GPIO17 (pin 11)
 
 
 
